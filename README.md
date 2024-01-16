@@ -1,2 +1,0 @@
-# swivelTest
-Swivel Practical Test
